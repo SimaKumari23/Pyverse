@@ -67,7 +67,7 @@ st.markdown("""
 st.markdown("<div style='height:40px'></div>", unsafe_allow_html=True)
 
 # ---------- NAVBAR ----------
-left, mid, right = st.columns([1,8,1])
+left ,gap1, mid,gap2, right = st.columns([1,0.5,6,0.5,1])
 
 # 🔹 MENU BUTTON (LEFT)
 with left:
