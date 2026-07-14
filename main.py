@@ -95,6 +95,7 @@ with mid:
     st.empty()
 
 # 🔹 PROFILE BUTTON (RIGHT)
+st.markdown("<div style='height:40px'></div>", unsafe_allow_html=True)
 with right:
     with stylable_container(
         key="profile_btn_style",
