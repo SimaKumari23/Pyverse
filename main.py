@@ -327,7 +327,7 @@ with col1:
             color:white;
             border:none;
             border-radius:10px;
-            padding:10px 22px;
+            padding:7px 17px;
             font-weight:bold;
         }
         button:hover{
@@ -358,7 +358,7 @@ with col2:
             color:white;
             border:none;
             border-radius:10px;
-            padding:10px 22px;
+            padding:7px 17px;
             font-weight:bold;
         }
         button:hover{
