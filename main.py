@@ -263,7 +263,7 @@ with left:
    }
 
    .inner-card {
-         background:#F5EBDB;
+         background:#9CA3AF;
          border-radius: 12px;
          padding: 15px;
          border: 1px solid #2E2F5B;
