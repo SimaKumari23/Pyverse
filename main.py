@@ -275,7 +275,7 @@ with left:
     st.markdown("""
     <div class="outer-card">
     <h2 style="color:#9CA3AF;">PyVerse</h2>
-    <p> With the ultimate developer learning platform for mastering programming language.</p>
+    <p> Master Python and DSA through interactive for mastering programming language.</p>
     <div class="inner-card">
     <h3>What you'll get</h3>
     <p>step-by-step guided lessions</p>
@@ -283,7 +283,7 @@ with left:
     </div>
     """, unsafe_allow_html=True)
 st.markdown("<h2 style='margin-bottom:0;color:#9CA3AF;'>Explore</h2>", unsafe_allow_html=True)
-st.markdown("<p style='margin-top:0;color:#9CA3AF;'>Learn all easily</p>", unsafe_allow_html=True)    
+st.markdown("<p style='margin-top:0;color:#9CA3AF;'>Start your coding journey</p>", unsafe_allow_html=True)    
 st.markdown("""
 <style>
 .bottom-card {
@@ -346,7 +346,7 @@ with col2:
     st.markdown("""
     <div class="card">
         <h3 style="color:#9CA3AF;">DSA</h3>
-        <p style="color:#9CA3AF;">Practice data structure</p>
+        <p style="color:#9CA3AF;">Master data Structure&<Algorithm/p>
     </div>
     """, unsafe_allow_html=True)
 
@@ -376,7 +376,7 @@ st.markdown("<hr style='border:1px solid #2E2F5B;'>", unsafe_allow_html=True)
 
 st.markdown("""
 <h4 style="text-align:center;color:#9CA3AF;">
-🚀 Built with <span style="color:#90E0EF;">Streamlit</span>
+Powered by <span style="color:#90E0EF;">Streamlit</span>
 </h4>
 """, unsafe_allow_html=True)
 
@@ -384,8 +384,8 @@ col1, col2 = st.columns(2)
 
 with col1:
     st.markdown("<h3 style='color:#90E0EF;'>Tutorials</h3>", unsafe_allow_html=True)
-    st.markdown("<p style='color:#9CA3AF;'>• Python</p>", unsafe_allow_html=True)
-    st.markdown("<p style='color:#9CA3AF;'>• DSA</p>", unsafe_allow_html=True)
+    st.markdown("<p style='color:#9CA3AF;'>• Python Programming</p>", unsafe_allow_html=True)
+    st.markdown("<p style='color:#9CA3AF;'>• Data Structure&Algorithm</p>", unsafe_allow_html=True)
 with col2:
     st.markdown("""
     <div style="padding-left:20px;">
