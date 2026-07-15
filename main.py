@@ -275,7 +275,7 @@ with left:
     st.markdown("""
     <div class="outer-card">
     <h2 style="color:#9CA3AF;">PyVerse</h2>
-    <p> Master Python and DSA through interactive for mastering programming language.</p>
+    <p style="color:#9CA3AF;"> Master Python and DSA through interactive for mastering programming language.</p>
     <div class="inner-card">
     <h3>What you'll get</h3>
     <p>step-by-step guided lessions</p>
