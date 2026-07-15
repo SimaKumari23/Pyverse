@@ -346,7 +346,7 @@ with col2:
     st.markdown("""
     <div class="card">
         <h3 style="color:#9CA3AF;">DSA</h3>
-        <p style="color:#9CA3AF;">Master data Structure & <Algorithm/p>
+        <p style="color:#9CA3AF;">Master dsa/p>
     </div>
     """, unsafe_allow_html=True)
 
