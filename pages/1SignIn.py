@@ -107,10 +107,6 @@ with col2:
         color:#60A5FA;
         text-decoration:underline;
     }
-    div {
-        display: flex;
-        justify-content: center;
-    }
     """
  ):
     if st.button("Sign Up"):
