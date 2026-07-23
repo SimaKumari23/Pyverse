@@ -88,7 +88,7 @@ st.markdown("""
   </div>
 """, unsafe_allow_html=True)
 
-col1, col2, col3 = st.columns([3,1,3])
+col1, col2, col3 = st.columns([1,2,1])
 with col2:
  with stylable_container(
     key="signup_btn", 
