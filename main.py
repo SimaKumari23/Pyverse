@@ -78,9 +78,9 @@ with left:
             background: linear-gradient(90deg,#0040ff,#8c00ff);
             color: white;
             border: none;
-            border-radius: 10px;
+            border-radius: 5px;
             font-weight: bold;
-            padding: 2px;
+            padding: 8px;
         }
         button:hover {
             background: linear-gradient(90deg,#005eff,#a855f7);
