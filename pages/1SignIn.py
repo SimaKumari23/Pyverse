@@ -91,13 +91,14 @@ st.markdown("""
 col1, col2, col3 = st.columns([3,1,3])
 with col2:
  with stylable_container(
-    key="signup_btn",
+    key="signup_btn", 
     css_styles="""
     button{
         background:none;
         border:none;
         color:#90E0EF;
         padding:0;
+        text-align:center;
         font-weight:bold;
         box-shadow:none;
     }
