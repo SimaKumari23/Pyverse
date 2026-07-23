@@ -80,7 +80,7 @@ with left:
             border: none;
             border-radius: 10px;
             font-weight: bold;
-            padding: 8px;
+            padding: 2px;
         }
         button:hover {
             background: linear-gradient(90deg,#005eff,#a855f7);
