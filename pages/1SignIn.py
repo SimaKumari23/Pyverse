@@ -83,7 +83,7 @@ if b1:
        if valid==0:
               st.success("Invalid User login details")
 st.markdown("""
-  <div style="text-align:center; color:#9CA3AF; margin-top:20px;">
+  <div style="color:#9CA3AF; margin-top:20px;">
    Don't have an account?
   </div>
 """, unsafe_allow_html=True)
