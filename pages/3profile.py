@@ -6,6 +6,7 @@ my=mydb["user_info"]
 st.set_page_config(page_title="My Profile", page_icon="👤", layout="wide")
 # Login check
 if "username" not in st.session_state:
+    st.write"(You are safely inside the app!")
     st.warning("Please Login First")
     st.stop()  
 # ---------------- CSS ----------------
