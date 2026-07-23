@@ -4,11 +4,11 @@ conn=pymongo.MongoClient("mongodb://127.0.0.1:27017/?directConnection=true&serve
 mydb=conn["ojt"]
 my=mydb["user_info"]
 st.set_page_config(page_title="My Profile", page_icon="👤", layout="wide")
-'''# Login check
+# Login check
 if "username" not in st.session_state:
     st.write"(You are safely inside the app!")
     st.warning("Please Login First")
-    st.stop()'''  
+    st.stop()  
 # ---------------- CSS ----------------
 st.markdown("""
 <style>
