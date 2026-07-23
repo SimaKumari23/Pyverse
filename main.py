@@ -78,7 +78,7 @@ with left:
             background: linear-gradient(90deg,#0040ff,#8c00ff);
             color: white;
             border: none;
-            border-radius: 5px;
+            border-radius: 10px;
             font-weight: bold;
             padding: 8px;
         }
