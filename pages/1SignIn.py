@@ -145,7 +145,7 @@ st.markdown("""
 
 # Centered clickable text button
 with stylable_container(
-    key="signup_btn",
+    key="signup_btn In",
     css_styles="""
     {
         display:flex;
@@ -153,6 +153,6 @@ with stylable_container(
     }
     """
 ):
-    if st.button("Sign Up"):
-        st.switch_page("pages/2SignUp.py")       
+    if st.button("Sign Up In"):
+        st.switch_page("pages/3SignUpIn.py")       
         
