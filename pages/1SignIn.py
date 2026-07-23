@@ -93,10 +93,6 @@ with col2:
  with stylable_container(
     key="signup_btn", 
     css_styles="""
-    div {
-        display: flex;
-        justify-content: center;
-    }
     button{
         background:none;
         border:none;
@@ -110,6 +106,10 @@ with col2:
     button:hover{
         color:#60A5FA;
         text-decoration:underline;
+    }
+    div {
+        display: flex;
+        justify-content: center;
     }
     """
  ):
